@@ -1,0 +1,15 @@
+Status	/mnt/d/ngs/ERR15159015_sorted.bam	/mnt/d/ngs/ERR15159016_sorted.bam
+Assigned	7209355	5302105
+Unassigned_Unmapped	215174	148292
+Unassigned_Read_Type	0	0
+Unassigned_Singleton	0	0
+Unassigned_MappingQuality	0	0
+Unassigned_Chimera	0	0
+Unassigned_FragmentLength	0	0
+Unassigned_Duplicate	0	0
+Unassigned_MultiMapping	2302749	1834882
+Unassigned_Secondary	0	0
+Unassigned_NonSplit	0	0
+Unassigned_NoFeatures	1008933	668914
+Unassigned_Overlapping_Length	0	0
+Unassigned_Ambiguity	806167	601254
