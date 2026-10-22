@@ -69,6 +69,7 @@ FastQC reports, HISAT2 alignment logs, and the featureCounts summary were organi
 RNA-seq-Gene-Expression-Analysis/
 ├── FastQC/
 │   └── FastQC HTML and ZIP reports
+
 ├── Alignment_Logs/
 │   └── HISAT2 alignment logs
 ├── Counts/
@@ -103,3 +104,6 @@ NCBI Sequence Read Archive (SRA)
 ## Data Availability
 
 Large raw sequencing files
+
+## Trimming 
+Read trimming was not performed because the FastQC report showed acceptable adapter content. Therefore, adapter trimming was not considered necessary based on this quality control result.
